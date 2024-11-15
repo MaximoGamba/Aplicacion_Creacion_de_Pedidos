@@ -19,17 +19,9 @@ Este proyecto aborda la construcción de una aplicación de gestión de pedidos,
 La aplicación incluye definiciones de modelos de base de datos adecuadas, garantizando una estructura que soporte la escalabilidad y eficiencia en la recuperación de datos. Se proporcionan modelos físicos de cada base de datos utilizada, apoyando el desarrollo efectivo y justificado de la solución.
 
 ## Herramientas y Tecnologías:
+-Java
+-Spring Boot
+-MongoDB
+-Maven
+-Postman
 
-_(Especifica aquí las herramientas y tecnologías que utilizaste, como lenguajes de programación, frameworks, bases de datos, etc.)_
-
-## Instalación
-
-_(Instrucciones sobre cómo instalar y ejecutar la aplicación.)_
-
-## Contribuciones
-
-_(Instrucciones sobre cómo otros pueden contribuir al proyecto.)_
-
-## Licencia
-
-_(Información sobre la licencia del proyecto.)
